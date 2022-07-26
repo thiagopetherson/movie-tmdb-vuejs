@@ -1,5 +1,5 @@
 # Projeto de Filmes do TMDB
-Projeto com VueJs 3, consumindo a API do TMDB (filmes), utilizando Vuex, Vue Router, CSS FlexBox e SASS.
+Projeto com VueJs 3, consumindo a API do TMDB (filmes), utilizando Vuex, Vue Router, Axios, CSS FlexBox e SASS.
 
 Link da Aplicação Rodando: https://moviesbook.netlify.app/#/
 
